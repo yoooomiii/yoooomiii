@@ -19,6 +19,9 @@
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/GCP-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
           <br/></div>
     </div>
     <div align= "center">
