@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/Linux-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/GCP-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
           <br/></div>
     </div>
     <div align= "center">
