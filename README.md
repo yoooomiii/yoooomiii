@@ -14,12 +14,12 @@
           <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/GCP-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
