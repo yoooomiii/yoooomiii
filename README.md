@@ -8,10 +8,10 @@ _<div align="center">
         아직 코딩 새싹입니다. 발전한 모습으로 돌아올게요!
     </div>
 </div>
-
+<hr>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
-    <br>
+  
     <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -37,7 +37,7 @@ _<div align="center">
     <h3>📧 a8b2232naver.com</h3>
     <h3>📒stack note 
         <h5>https://www.notion.so/10c79554109e8011ba22f06b4eb29492?v=fff79554109e81d5b538000c5001b6d4&pvs=4 </h5>
-    <br>
+   
     <div align="center">
         <a href="https://hits.seeyoufarm.com">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoooomiii%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
