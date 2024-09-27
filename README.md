@@ -4,6 +4,7 @@ _<div align="center">
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">차근차근 성장중인 개발자!</h2>
+    <h4>아직 코딩 새싹입니다. 발전한 모습으로 돌아올게요!<h4>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         아직 코딩 새싹입니다. 발전한 모습으로 돌아올게요!
     </div>
