@@ -35,7 +35,7 @@ _<div align="center">
     <h3>📧 a8b2232naver.com</h3>
     <h3>📒stack note 
         <h5>https://www.notion.so/10c79554109e8011ba22f06b4eb29492?v=fff79554109e81d5b538000c5001b6d4&pvs=4 </h5>
-   
+   <br>
     <div align="center">
         <a href="https://hits.seeyoufarm.com">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoooomiii%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
@@ -50,4 +50,5 @@ _<div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoooomiii&layout=compact&bg_color=180,c2e4ef,00000000&title_color=000000&text_color=000000"/>
     </div>
 </div>
+-
 
