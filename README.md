@@ -3,9 +3,9 @@ _<div align="center">
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">차근차근 성장하는 개발자!</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">차근차근 성장중인 개발자!</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        코딩에 대해 6개월정도 공부한 코딩 새싹입니다. 멋진 꽃을 피울때까지 노력하겠습니다
+        아직 코딩 새싹입니다. 발전한 모습으로 돌아올게요!
     </div>
 </div>
 
