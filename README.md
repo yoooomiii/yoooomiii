@@ -30,11 +30,12 @@ _<div align="center">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
         
-    </div>
 </div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <h3>📧 a8b2232naver.com</h3>
+    <h3>📒stack note / https://www.notion.so/10c79554109e8011ba22f06b4eb29492?v=fff79554109e81d5b538000c5001b6d4&pvs=4 </h3>
     <br>
     <div align="center">
         <a href="https://hits.seeyoufarm.com">
@@ -50,4 +51,4 @@ _<div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoooomiii&layout=compact&bg_color=180,c2e4ef,00000000&title_color=000000&text_color=000000"/>
     </div>
 </div>
-_
+
