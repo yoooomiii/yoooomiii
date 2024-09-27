@@ -8,7 +8,7 @@ _<div align="center">
         아직 코딩 새싹입니다. 발전한 모습으로 돌아올게요!
     </div>
 </div>
-<hr>
+
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   
