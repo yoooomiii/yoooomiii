@@ -1,4 +1,4 @@
-_<div align="center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:c1d7e2,100:f2e4a6&height=180&text=MY%20CODING%20NOTE&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
